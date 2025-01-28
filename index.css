@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+.about-us {
+    padding: 20px;
+    text-align: center;
+}
+.heading-about {
+    font-size: 2.5em;
+    color: #333;
+    margin-bottom: 20px;
+}
+.About-Company {
+    margin-bottom: 30px;
+}
+.About-Company h2 {
+    font-size: 1.5em;
+    color: #555;
+}
+.About-Company p {
+    font-size: 1em;
+    color: #666;
+    margin: 5px 0;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.Member {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 280px;
+    text-align: center;
+}
+.Member img {
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+.Member h3 {
+    font-size: 1.2em;
+    color: #333;
+}
+.Member p {
+    font-size: 0.9em;
+    color: #555;
+    margin: 5px 0;
+}
+.Member li {
+    list-style: none;
+    color: #555;
+    font-size: 0.9em;
+}
